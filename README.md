@@ -5,7 +5,7 @@
 ### ✅ `README.md`
 
 ````markdown
-# EuroMillions Predictor (Public Version)
+# Lottery Predictor (Public Version)
 
 This repository provides a **simplified public version** of a EuroMillions number prediction system.  
 It allows basic interaction with historical lottery data and simulates prediction flow using placeholder outputs.
