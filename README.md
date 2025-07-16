@@ -60,7 +60,7 @@ pip install -r requirements.txt
 2. Run the script:
 
 ```bash
-python predictor.py
+python3 superpredict.py
 ```
 
 3. Enter the actual results after each simulated prediction to update the dataset.
